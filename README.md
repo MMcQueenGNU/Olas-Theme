@@ -1,6 +1,6 @@
 # Olas-Theme
 
-A Materia Gtk+ theme based on Orchis and Lexis
+A Materia Gnome/Gtk+ theme based on Orchis and Lexis
 
 Requires User-Themes extension:https://extensions.gnome.org/extension/19/user-themes/
 
